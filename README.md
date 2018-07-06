@@ -19,7 +19,7 @@
 然后再选择正确的镜像。
 
 通常，gcr.io官方镜像的命名规则为： 
-gcr.io/google-containers/IMAGE_NAME:IMAGE_TAG
+gcr.io/google_containers/IMAGE_NAME:IMAGE_TAG
 
 比如： 
 gcr.io/google_containers/kube-apiserver-amd64:v1.10.3
