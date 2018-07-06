@@ -13,7 +13,6 @@
 
 
 ## 查看gcr.io官方镜像
-在前面的docker-library中需要知道准确的镜像名称和镜像标签。
 
 在科学上网的情况下，打开 https://console.cloud.google.com/gcr/images/google-containers/GLOBAL ，在右边的“过滤条件“中输入关键词来搜索。
 
