@@ -10,6 +10,7 @@
 
 * Kubernetes v1.10.3
 * Kubernetes v1.11.0
+* Kubernetes v1.13.0
 
 
 ## 查看gcr.io官方镜像
