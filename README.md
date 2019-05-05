@@ -24,3 +24,7 @@ gcr.io/google_containers/IMAGE_NAME:IMAGE_TAG
 
 比如： 
 gcr.io/google_containers/kube-apiserver-amd64:v1.10.3
+
+## 使用阿里云镜像仓库构建镜像
+
+* https://blog.csdn.net/nklinsirui/article/details/80581286
