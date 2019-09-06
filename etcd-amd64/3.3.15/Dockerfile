@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:3.3.15
+FROM mirrorgooglecontainers/etcd-amd64:3.3.15
 MAINTAINER zhangfanxing <zhangfanxing@163.com>

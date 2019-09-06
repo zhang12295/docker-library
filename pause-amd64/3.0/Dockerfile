@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/pause-amd64:3.0
-MAINTAINER mritd <mritd@mritd.me>
+FROM mirrorgooglecontainers/pause-amd64:3.0
+MAINTAINER zhangfanxing <zhangfanxing@zhangfanxing.me>
