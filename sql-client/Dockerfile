@@ -1,0 +1,1 @@
+FROM fhueske/flink-sql-training:1-FLINK-1.9-scala_2.11
