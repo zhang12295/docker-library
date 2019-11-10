@@ -1,0 +1,1 @@
+FROM mirrorgooglecontainers/kube-apiserver:v1.15.3

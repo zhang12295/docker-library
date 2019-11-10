@@ -1,0 +1,1 @@
+FROM mirrorgooglecontainers/kube-scheduler:v1.15.3

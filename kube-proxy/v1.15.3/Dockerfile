@@ -1,0 +1,1 @@
+FROM mirrorgooglecontainers/kube-proxy:v1.15.3
